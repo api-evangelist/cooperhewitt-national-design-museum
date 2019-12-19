@@ -1,0 +1,49 @@
+{
+    "name": "Cooper-Hewitt National Design Museum",
+    "description": "Cooper Hewitt Smithsonian Design Museum located in New York | Open M-F & Su 10-6, Sa 10-9",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1831-cooper-hewitt-national-design-museum.jpg",
+    "tags": [
+        "api provider",
+        "have api",
+        "museums"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/cooperhewitt-national-design-museum\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Cooper-Hewitt National Design Museum",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1831-cooper-hewitt-national-design-museum.jpg",
+            "humanURL": "https:\/\/collection.cooperhewitt.org\/api\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/cooperhewitt-national-design-museum-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/cooperhewitt-national-design-museum-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/cooper-hewitt"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/cooperhewitt"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/collection.cooperhewitt.org\/api\/"
+        }
+    ]
+}
